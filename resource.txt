@@ -1,0 +1,9 @@
+Project ID:
+aa9bccc3-dcb2-4f82-b6ee-caab85b46ff9
+
+Private Key:
+d81342e3-5174-49f9-b49f-4de6fce81897 
+
+npm i react-chat-engine-advanced
+
+npm install react-chat-engine-pretty
